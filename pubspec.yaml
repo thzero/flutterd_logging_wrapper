@@ -1,5 +1,5 @@
 name: logging_wrapper
-description: A new Flutter package project.
+description: Logging wrapper allowing multiple loggers to be run.
 version: 0.0.1
 repository: https://github.com/thzero/logging_wrapper
 publish_to: none
