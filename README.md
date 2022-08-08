@@ -1,4 +1,4 @@
-A logging wrapper for Flutter that provides a simple common interface allowing use of multiple loggers.
+A logging wrapper for Flutter that provides a simple common interface allowing use of multiple loggers.  This logging library is used by the opinionated [Fluttered](<https://github.com/thzero/flutterd>) (https://github.com/thzero/flutterd) library for Flutter.
 
 ## Capabilities
 
