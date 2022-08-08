@@ -1,4 +1,4 @@
-import 'package:logging_wrapper/logger_base.dart';
+import 'package:flutter_library_logging_wrapper/logger_base.dart';
 
 class LoggerPrint extends LoggerBase {
   @override
